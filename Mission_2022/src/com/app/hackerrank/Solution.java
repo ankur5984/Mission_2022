@@ -48,6 +48,15 @@ public class Solution {
 		int n = Integer.parseInt(bufferedReader.readLine().trim());
 
 		Result.staircase(n);
+		//  input --> 6
+		//output below-->
+		//      #
+		//     ##
+		//    ###
+		//   ####
+		//  #####
+		// ######
+
 
 		bufferedReader.close();
 	}
